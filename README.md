@@ -44,17 +44,17 @@ The interactive dashboard is organised into three pages.
 ### 1. Executive Overview
 
 Provides a high-level summary of incidents, annual trends, regional distribution and examination categories.
-
+![Executive Overview](screenshots/executive_overview.png)
 
 ### 2. Legal Response & Impact
 
 Examines recorded arrests, convictions, government response actions and reported aspirants affected by examination category.
-
+![Legal Response and Impact](screenshots/legal_response_impact.png)
 
 ### 3. Methodology & Data Notes
 
 Documents the project objectives, data preparation steps, analytical limitations and technologies used.
-
+![Methodology and Data Notes](screenshots/methodology_notes.png)
 
 ## Project Structure
 
