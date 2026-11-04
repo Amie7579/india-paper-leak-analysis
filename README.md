@@ -29,13 +29,22 @@ The analysis covers **103 cleaned incident records** and explores the scale of r
 
 ## Key Findings
 
-- **103** cleaned incident records were analysed.
-- **1,207** total recorded arrests were reported across the dataset.
-- **114** total recorded convictions were reported.
-- **21,431,568** aspirants were reported as affected across incidents with available impact figures.
-- Police and recruitment examinations accounted for the largest category of recorded incidents, with **46 incidents**.
-- The highest annual incident count in the dataset was recorded in **2021, with 14 incidents**.
-- Police and recruitment examinations also accounted for the largest recorded arrest total, with **789 arrests**.
+The analysis of 103 cleaned incident records revealed the following patterns:
+
+1. **Incident trends:** 2021 recorded the highest number of incidents (14), followed by 2022 (13).
+
+2. **Examination categories:** Police and recruitment examinations accounted for 46 incidents, representing approximately 44.7% of the dataset.
+
+3. **Regional distribution:** The highest recorded area counts were All India (16), Madhya Pradesh (13), Uttar Pradesh (12) and Rajasthan (11).
+
+4. **Recorded arrests:** A total of 1,207 arrests were recorded. Police and recruitment examinations accounted for 789, approximately 65.4% of the recorded total.
+
+5. **Recorded convictions:** The dataset contained 114 recorded convictions, but conviction information was available for only 10 of the 103 incidents.
+
+6. **Administrative response:** Arrest/FIR actions were recorded for 84 incidents, investigations for 55, exam cancellations for 51 and retests for 21. These actions can overlap.
+
+7. **Reported impact:** The dataset contained approximately 21.43 million reported affected-aspirant entries. These figures may include overlapping reports and should not be interpreted as unique individuals.
+
 
 ## Power BI Dashboard
 
